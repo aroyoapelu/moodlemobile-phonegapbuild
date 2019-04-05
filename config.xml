@@ -6,10 +6,10 @@
         versionCode = "36100"
         android-versionCode="36100"
         version   = "3.6.1">
-    <name>Moodle</name>
+    <name>Edufia</name>
 
     <description>
-        Moodle official app
+        Edufia app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
